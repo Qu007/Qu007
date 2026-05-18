@@ -85,6 +85,7 @@ functions.
 [View Project](link)
 
 ---
+Note: Project details are partially anonymized to respect confidentiality.
 
 ## Hardware Portfolio
 
