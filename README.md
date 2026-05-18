@@ -1,13 +1,7 @@
 # Hi, I'm Aimie Qusyairey
 
-Senior Hardware Engineer with experience in:
-
-- Embedded systems
-- PCB design
-- Power electronics
-- MPPT systems
-- Wireless communication
-- Industrial electronics
+An over 5 years’ experience in electronic hardware design and system with full hardware development lifecycle, from feasibility study, schematic design, PCB layout, embedded system, prototyping, validation, certification, and production support. Strong expertise in power electronics, digital and analog circuit design, battery based systems, DC/DC conversion, and embedded processor selection and integration.  Experience in  hardware simulation, design review (DFM/DFT), EMI/EMC-aware design, subsystem integration, structured hardware testing and preparation of technical documents, and test reports. Hands-on in 
+troubleshooting complex electronic circuits using laboratory equipment and tools.
 
 ---
 
