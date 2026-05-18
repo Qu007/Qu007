@@ -50,7 +50,7 @@ Long-range communication controller with integrated RF.
 
 ---
 
-### Street Light Reader Module with RS-485 and 4G
+### Solar Street Light Reader Module with RS-485 and 4G
 Long-range communication controller with integrated RF.
 
 [View Project](link)
@@ -64,7 +64,7 @@ Long-range communication controller with integrated RF.
 
 ---
 
-### Main Buoyancy Controller
+### Buoyancy Main Controller
 Long-range communication controller with integrated RF.
 
 [View Project](link)
