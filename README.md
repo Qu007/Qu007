@@ -1,15 +1,62 @@
-Hi, I am Aimie Qusyairey bin Zulkifli
-<!--
-**Qu007/Qu007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Aimie Qusyairey 👋
 
-Here are some ideas to get you started:
+Senior Hardware Engineer with experience in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Embedded systems
+- PCB design
+- Power electronics
+- MPPT systems
+- Wireless communication
+- Industrial electronics
+
+---
+
+## Skills
+
+⚡ PCB Design  
+⚡ STM32  
+⚡ Power Electronics  
+⚡ RF Integration  
+⚡ MPPT Systems  
+⚡ Hardware Validation  
+⚡ EMI/EMC Consideration  
+
+---
+
+## Featured Projects
+
+### Solar Street Light Controller
+Integrated MPPT charging and LED driver controller.
+
+[View Project](link)
+
+---
+
+### Medium Intensity Type B Controller
+Solar charging with synchronous boost LED control.
+
+[View Project](link)
+
+---
+
+### Wireless Industrial Controller
+Long-range communication controller with integrated RF.
+
+[View Project](link)
+
+---
+
+## Hardware Portfolio
+
+| Project | Description |
+|-----------|-------------|
+| Street Light Controller | MPPT + LED Driver |
+| Medium Type B | Solar-powered obstruction light |
+| Wireless Controller | RF + cellular communication |
+
+---
+
+## Contact
+
+LinkedIn: your_linkedin  
+Email: your_email
