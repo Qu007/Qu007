@@ -27,7 +27,7 @@ Senior Hardware Engineer with experience in:
 
 ---
 
-📁## Featured Projects
+## Featured Projects
 
 ### Aviation Light Controller with GSM and LoRa as Master
 Industrial wireless controller designed for remote monitoring and control in aviation light  
