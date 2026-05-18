@@ -1,5 +1,4 @@
-## Hi there 👋
-
+Hi, I am Aimie Qusyairey bin Zulkifli
 <!--
 **Qu007/Qu007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
