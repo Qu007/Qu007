@@ -1,4 +1,4 @@
-# Hi, I'm Aimie Qusyairey 👋
+# Hi, I'm Aimie Qusyairey
 
 Senior Hardware Engineer with experience in:
 
@@ -8,6 +8,10 @@ Senior Hardware Engineer with experience in:
 - MPPT systems
 - Wireless communication
 - Industrial electronics
+
+---
+
+## Technical Expertise
 
 ---
 
