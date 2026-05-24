@@ -23,7 +23,7 @@ Industrial wireless controller designed for remote monitoring and control in avi
 systems. The board integrates long-range RF communication with cellular backhaul, onboard 
 power conversion in a compact embedded platform.
 
-[View Project](link)
+[View Project]([link](https://github.com/Qu007/Aviation-Light-Controller-with-GSM-and-LoRa-as-Master/edit/main/README.md))
 
 ### Aviation Light Controller - Medium Intensity Type B
 Medium-intensity aviation obstruction light controller integrating solar MPPT battery charging 
