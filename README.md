@@ -1,23 +1,19 @@
 # Hi, I'm Aimie Qusyairey
 
-An over 5 years’ experience in electronic hardware design and system with full hardware development lifecycle, from feasibility study, schematic design, PCB layout, embedded system, prototyping, validation, compliance and certification, and production support. Strong expertise in power electronics, digital and analog circuit design, battery based systems, DC/DC conversion, and embedded processor selection and integration.  Experience in  hardware simulation, design review (DFM/DFT), EMI/EMC-aware design, subsystem integration, structured hardware testing and preparation of technical documents, and test reports. Hands-on in 
-troubleshooting complex electronic circuits using laboratory equipment and tools.
+An over 5 years’ experience in electronic hardware design and system with full hardware development lifecycle, from feasibility study, schematic design, PCB layout, embedded system, prototyping, validation, compliance and certification, and production support. Strong expertise in power electronics, digital and analog circuit design, battery based systems, DC/DC conversion, and embedded processor selection and integration.  Experience in  hardware simulation, design review (DFM/DFT), EMI/EMC-aware design, subsystem integration, structured hardware testing and preparation of technical documents, and test reports.
 
 ---
 
 ## Technical Expertise
-
----
-
-## Skills
-
-⚡ PCB Design  
-⚡ STM32  
-⚡ Power Electronics  
-⚡ RF Integration  
-⚡ MPPT Systems  
-⚡ Hardware Validation  
-⚡ EMI/EMC Consideration  
+⚡ Electronic Hardware Development Lifecycle Management and Architecture 
+⚡ Schematic Design, PCB Layout, Design Review & Manufacturability Considerations (DFM/DFT) 
+⚡ Analog and Digital, Signal Conditioning, and Filter Circuit Design 
+⚡ Power Electronics (Buck, Boost, MPPT, Battery Charging Systems) 
+⚡ MOSFET-based Power Stages, Transient Protection, Voltage and Current Sensing Circuit 
+⚡ Hardware Verification and Validation, Test Plan, Test Procedure and Test Report Preparation 
+⚡ Microprocessor/Microcontroller and Embedded Hardware (STM32, ESP32, AVR) 
+⚡ Hardware–Firmware Integration, Simulation, Prototype Assembly, Soldering, Rework & Debugging 
+⚡ EMC / EMI aware hardware design  
 
 ---
 
@@ -72,17 +68,7 @@ Note: Project details are partially anonymized to respect confidentiality.
 
 ---
 
-## Hardware Portfolio
-
-| Project | Description |
-|-----------|-------------|
-| Street Light Controller | MPPT + LED Driver |
-| Medium Type B | Solar-powered obstruction light |
-| Wireless Controller | RF + cellular communication |
-
----
-
 ## Contact
 
-LinkedIn: your_linkedin  
-Email: your_email
+LinkedIn: www.linkedin.com/in/aimie-qusyairey-zulkifli
+Email: qusyaireyy@gmail.com
