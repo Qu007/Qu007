@@ -5,7 +5,15 @@ An over 5 years’ experience in electronic hardware design and system with full
 ---
 
 ## Technical Expertise
-⚡ Electronic Hardware Development Lifecycle Management and Architecture⚡ Schematic Design, PCB Layout, Design Review & Manufacturability Considerations (DFM/DFT)⚡ Analog and Digital, Signal Conditioning, and Filter Circuit Design⚡ Power Electronics (Buck, Boost, MPPT, Battery Charging Systems)⚡ MOSFET-based Power Stages, Transient Protection, Voltage and Current Sensing Circuit⚡ Hardware Verification and Validation, Test Plan, Test Procedure and Test Report Preparation⚡ Microprocessor/Microcontroller and Embedded Hardware (STM32, ESP32, AVR)⚡ Hardware–Firmware Integration, Simulation, Prototype Assembly, Soldering, Rework & Debugging⚡ EMC / EMI aware hardware design  
+⚡ Electronic Hardware Development Lifecycle Management and Architecture
+⚡ Schematic Design, PCB Layout, Design Review & Manufacturability Considerations (DFM/DFT)
+⚡ Analog and Digital, Signal Conditioning, and Filter Circuit Design
+⚡ Power Electronics (Buck, Boost, MPPT, Battery Charging Systems)
+⚡ MOSFET-based Power Stages, Transient Protection, Voltage and Current Sensing Circuit
+⚡ Hardware Verification and Validation, Test Plan, Test Procedure and Test Report Preparation
+⚡ Microprocessor/Microcontroller and Embedded Hardware (STM32, ESP32, AVR)
+⚡ Hardware–Firmware Integration, Simulation, Prototype Assembly, Soldering, Rework & Debugging
+⚡ EMC / EMI aware hardware design  
 
 ---
 
