@@ -5,13 +5,14 @@ An over 5 years’ experience in electronic hardware design and system with full
 ---
 
 ## Technical Expertise
-⚡ PCB Design  
-⚡ STM32  
-⚡ Power Electronics  
-⚡ RF Integration  
-⚡ MPPT Systems  
-⚡ Hardware Validation  
-⚡ EMI/EMC Consideration  
+⚡ Electronic Hardware Development Lifecycle Management and Architecture 
+⚡ Schematic Design, PCB Layout, Design Review & Manufacturability Considerations (DFM/DFT)  
+⚡ Analog and Digital, Signal Conditioning, and Filter Circuit Design
+⚡ Power Electronics (Buck, Boost, MPPT, Battery Charging Systems)
+⚡ Hardware Verification and Validation, Test Plan, Test Procedure and Test Report Preparation  
+⚡ Microprocessor/Microcontroller and Embedded Hardware (STM32, ESP32, AVR)  
+⚡ Hardware–Firmware Integration, Simulation, Prototype Assembly, Soldering, Rework & Debugging
+⚡ EMC / EMI aware hardware design  
 
 ---
 
